@@ -8,7 +8,8 @@ citylots.json
 ### 4
 part2.js
 ### 5
-11.1 MB
+citylots.json: 11.1 MB
+part2.js: 53 bytes
 ### 6
 92.43 ms
 ### 7
