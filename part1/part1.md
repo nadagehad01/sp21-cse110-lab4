@@ -98,9 +98,9 @@ JS converts 2 to a boolean, which is true, and the compares the LHS true to the 
 The modifyArray function would use the function parameter, callback, to call on every integer in the parameter array, modify the integer in some way, and then add the new returned integer to newArr. In this specific call to modifyArray, we pass in the doSomething function, which doubles the integer parameter and returns it. Therefore, the resulting array would be [2, 4, 6]. In a different call to modifyArray, we would get different operations being done on the input array if we pass in a different function, which shows the power of passing functions as parameters.
 
 ### 19
-1\\
-4\\
-3\\
+1  
+4  
+3  
 2
 
 
